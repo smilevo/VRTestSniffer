@@ -1,0 +1,11 @@
+Project Name,Test Function,Smell Type
+RhubarbVR@RhubarbVR_Old,WorkerTests<>AllComponentsTest,RedundantPrint
+ChanyaVRC@VRCOscLib,OscChatboxTest<>SetIsTypingTest,RedundantPrint
+gatosyocora@VRCPhotoAlbum,DBCacheServiceTest<>TestAsync,RedundantPrint
+RhubarbVR@RhubarbVR_Old,WorkerTests<>AllWorkersTest,RedundantPrint
+hotbreakb@Capstone_Design,LeapCTests<>TestPollConnection,RedundantPrint
+alvinquach@jpl-trek-vr,TextureUtilsTests<>ComputeMipmapDimensions_E_CorrectResults,RedundantPrint
+ChanyaVRC@VRCOscLib,OscParameterTests<>SendAvatarParameterTest,RedundantPrint
+addyi@SoftwareCity,DocumentSorterTest<>LazySortingByWidthAscTest,RedundantPrint
+hotbreakb@Capstone_Design,DeviceTests<>DeviceList_operator_index,RedundantPrint
+alvinquach@jpl-trek-vr,ScrollTransformerTests<>MapInputOutput_OneToOneB_CorrectResults,RedundantPrint
